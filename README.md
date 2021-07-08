@@ -9,9 +9,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[LokeshDidwania](https://lokeshdidwania.com/)**
+- 🔭 Here is my current working project **[LokeshDidwania](https://lokeshdidwania.com/)**
 - 🌱 I’m currently learning **Data Structures and Algorithms, WordPress, Plesk, Django and much more.**
-- 👯 I’m looking to collaborate as **Web Developer Intern at Rajat Agarwal Creators**
+- 👯 I’m currently as **Web Developer Intern at Rajat Agarwal Creators**
 - 👨‍💻 Check out my website at **[My Portfolio](https://prathamtripathi11-c82e2.web.app/)**
 - 📫 How to reach me **prathamtripathi011@gmail.com**
 - ⚡ Fun fact **I am a gamer, Table Tennis player and Gym enthusiast as well.**
@@ -19,13 +19,17 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.djangoproject.com/" target="_blank"><img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" width="48px"/><a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
+    <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/26e07f/django.png"/><a>
+    <a href="https://www.php.net/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/4a90e2/php-logo.png"/><a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/26e07f/wordpress.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/4a90e2/jquery.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/ios/50/4a90e2/github--v2.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/26e07f/c-plus-plus-logo.png"/></a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
