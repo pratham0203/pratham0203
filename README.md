@@ -9,12 +9,12 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-- 👨‍💻 Check out my PortFolio at **[My Portfolio](https://prathamtripathi11-c82e2.web.app/)**
-- 📫 How to reach me **subham.raoniar@gmail.com**
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- 🔭 I’m currently working on **[LokeshDidwania](https://lokeshdidwania.com/)**
+- 🌱 I’m currently learning **Data Structures and Algorithms, WordPress, Plesk, Django and much more.**
+- 👯 I’m looking to collaborate as **Web Developer Intern at Rajat Agarwal Creators**
+- 👨‍💻 Check out my website at **[My Portfolio](https://prathamtripathi11-c82e2.web.app/)**
+- 📫 How to reach me **prathamtripathi011@gmail.com**
+- ⚡ Fun fact **I am a gamer, Table Tennis player and Gym enthusiast as well.**
 
 ## 🚀 Languages and Tools:
 
@@ -54,7 +54,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhamRaoniar28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/pratham0203/github-readme-activity-graph"><img alt="Pratham Tripathi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pratham0203&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -65,15 +65,15 @@
 <a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.facebook.com/profile.php?id=100008321676754"><img src="https://img.icons8.com/ios-filled/50/4a90e2/facebook-new.png"/></a>
 
 </p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+    <img src="https://komarev.com/ghpvc/?username=pratham0203">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/pratham0203?tab=followers"><img src="https://img.shields.io/github/followers/pratham0203?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 
