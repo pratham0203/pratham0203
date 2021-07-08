@@ -43,7 +43,8 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pratham Tripathi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pratham0203&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-## 📊 My Github Stats
+
+## 🚀 Languages and Tools:
 
   <br/>
     <a href="https://github.com/pratham0203/github-readme-stats"><img alt="Pratham Tripathi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pratham0203&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
