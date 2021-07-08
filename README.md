@@ -18,7 +18,7 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<p align="center"> 
     <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/26e07f/django.png"/><a>
     <a href="https://www.php.net/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/4a90e2/php-logo.png"/><a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
@@ -44,6 +44,7 @@
 ## 📊 My Github Stats
 
   <br/>
+<p align="center">
     <a href="https://github.com/pratham0203/github-readme-stats"><img alt="Pratham Tripathi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pratham0203&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/pratham0203/github-readme-stats"><img alt="Pratham Tripathi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham0203&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
@@ -56,6 +57,7 @@
 
 <br/>
 <br/>
+        </p>
 
 ## Connect with me:
 <p align="left">
