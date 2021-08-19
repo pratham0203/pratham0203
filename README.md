@@ -14,7 +14,7 @@
 - 👯 I’m currently as **Web Developer Intern at Rajat Agarwal Creators**
 - 👨‍💻 Check out my website at **[My Portfolio](https://prathamtripathi11-c82e2.web.app/)**
 - 📫 How to reach me **prathamtripathi011@gmail.com**
-- ⚡ Fun fact **I am a gamer, Table Tennis player and Gym enthusiast as well.**
+- ⚡ Fun fact **I am a gamer, Table Tennis player and Gym enthusiast.**
 
 ## 🚀 Languages and Tools:
 
