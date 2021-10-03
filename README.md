@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#"><img width="40%" height="auto" src="https://lh3.googleusercontent.com/pw/AM-JKLV00Pn4B1zMCgcRZ7HgfmmLIFptg86fykxBBPOVsBRwmpsLhHCCMvkQROks0OhzymQqyIoDMng3gbBo3H-xkb188UmjYMP83DHtRJaoIGv-illvSpPojG0H_Pi_5Q-DJN5Cw3kVwQnmg_iXoKGrbeloPw=w686-h625-no" height="175px"/></a>
+<a href="#"><img width="20%"   src="hero-bg-test.png" width= "200" height="250"/></a>
 </p>
 
 
