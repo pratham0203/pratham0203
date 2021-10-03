@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#"><img width="20%"   src="hero-bg-test.png" width= "200" height="250"/></a>
+<a href="#"><img width="20%" src="hero-bg-test.png"/></a>
 </p>
 
 
