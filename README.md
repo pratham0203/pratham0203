@@ -9,12 +9,12 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Here is my current working project **[LokeshDidwania](https://lokeshdidwania.com/)**
+- 🔭 Here is my current working project **[Mithooztattoo](https://mithooztattoo.com/)**
 - 🌱 I’m currently learning **Data Structures and Algorithms, WordPress, Plesk, Django and much more.**
-- 👯 I’m currently as **Web Developer Intern at Rajat Agarwal Creators**
+- 👯 I’m currently **Web Developer / ML Enthusiast**
 - 👨‍💻 Check out my website at **[My Portfolio](https://prathamtripathi11-c82e2.web.app/)**
 - 📫 How to reach me **prathamtripathi011@gmail.com**
-- ⚡ Fun fact **I am a gamer, Table Tennis player and Gym enthusiast.**
+- ⚡ Fun fact **I am a gamer, Table Tennis player and Strength Trainer.**
 
 ## 🚀 Languages and Tools:
 
